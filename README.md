@@ -1,2 +1,7 @@
-# Latin2OlChiki-Converter
-A Santali language converter that transcribes text from Latin characters to the Ol Chiki script. &lt;br> ᱢᱤᱫ ᱥᱟᱱᱛᱟᱲᱤ ᱯᱟᱹᱨᱥᱤ ᱠᱚᱱᱵᱷᱚᱴᱚᱨ ᱡᱟᱦᱟᱸ ᱫᱚ ᱞᱮᱴᱤᱱ ᱟᱠᱷᱚᱨ, ᱚᱞ ᱪᱤᱠᱤ ᱛᱮ ᱵᱚᱫᱚᱞᱟᱭ ᱾
+# Latin2OlChiki ᱠᱚᱱᱵᱷᱚᱴᱚᱨ
+ᱢᱤᱫ ᱥᱟᱱᱛᱟᱲᱤ ᱯᱟᱹᱨᱥᱤ ᱠᱚᱱᱵᱷᱚᱴᱚᱨ ᱡᱟᱦᱟᱸ ᱫᱚ ᱞᱮᱴᱤᱱ ᱟᱠᱷᱚᱨ, ᱚᱞ ᱪᱤᱠᱤ ᱛᱮ ᱵᱚᱫᱚᱞᱟᱭ ᱾
+
+# ᱮᱱᱮᱢᱤᱭᱟᱹ
+* ᱨᱟᱢᱡᱤᱛ ᱴᱩᱰᱩ
+* ᱵᱤᱡᱮᱱᱫᱽᱨᱚ ᱦᱟᱱᱥᱫᱟ
+* ᱯᱨᱚᱥᱟᱱᱛᱚ ᱦᱮᱢᱵᱽᱨᱚᱢ
